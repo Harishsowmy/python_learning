@@ -1,0 +1,1 @@
+print("harish\n"*10)

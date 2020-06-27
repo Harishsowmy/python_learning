@@ -1,0 +1,15 @@
+pxt=open("test.tst", 'w')
+#print(pxt.read())
+#for line in pxt:
+    #print(line)
+line1=input("enter line number 1")
+line2=input("enter line number 2")
+line3=input("enter line number 3")
+
+pxt.write(line1)
+pxt.write("\n")
+pxt.write(line2)
+pxt.write("\n")
+pxt.write(line3)
+pxt.write("\ns")
+pxt.close()
