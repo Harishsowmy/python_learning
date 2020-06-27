@@ -1,0 +1,10 @@
+print("harish")
+print("harish")
+print("harsih")
+print("harish")
+print("harish")'''
+print("harish")
+print("harsih")
+print("harish")
+print("harsih")
+print("harish")

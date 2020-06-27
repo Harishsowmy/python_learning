@@ -1,0 +1,16 @@
+a=45
+b=43
+c=34
+d=67
+print("a={0}".format(a))
+print("b={0}".format(b))
+print("c={0}".format(c))
+print("d={0}".format(d))
+add=a+b
+subtract=c-d
+multiply=d*a
+divide=float(b)/c
+print("add={0}".format(add))
+print("subtract={0}".format(subtract))
+print("multiply={0}".format(multiply))
+print("divide={0}".format(divide))
