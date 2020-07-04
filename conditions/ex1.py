@@ -1,5 +1,5 @@
 cats=10
-dogs=2
+dogs=3
 people=250
 if cats < dogs:
     print("cats are lees than dogs")
