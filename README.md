@@ -20,5 +20,5 @@ Learning Git as well:
 9. [x] git remote -v
 10. [x] git branch
 11. [x] git checkout -b <new branch name>
-12. [ ] git checkout <branch name>
-13. [ ] git merge <branch name>
+12. [x] git checkout <branch name>
+13. [x] git merge <branch name>
