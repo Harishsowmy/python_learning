@@ -9,16 +9,16 @@ Following topics are completed:
 
 
 Learning Git as well:
-0. [ ] git init
-1. [x] git status
-2. [x] git diff
-3. [x] git add
-4. [x] git commit -m '<some message>'
-5. [x] git push origin <branch name>
-6. [x] git pull origin <branch name>
-7. [x] git remote add origin <url>
-8. [x] git remote -v
-9. [x] git branch
-10. [x] git checkout -b <new branch name>
-11. [ ] git checkout <branch name>
-12. [ ] git merge <branch name>
+1. [ ] git init
+2. [x] git status
+3. [x] git diff
+4. [x] git add
+5. [x] git commit -m '<some message>'
+6. [x] git push origin <branch name>
+7. [x] git pull origin <branch name>
+8. [x] git remote add origin <url>
+9. [x] git remote -v
+10. [x] git branch
+11. [x] git checkout -b <new branch name>
+12. [ ] git checkout <branch name>
+13. [ ] git merge <branch name>
