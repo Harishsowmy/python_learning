@@ -1,11 +1,11 @@
 cats=10
-dogs=3
+dogs=13
 people=250
 if cats < dogs:
     print("cats are lees than dogs")
 
 if  cats > dogs:
-    print("cats are grater than dogs")
+    print("dogs are greater than cats")
 
 if cats < people:
 
